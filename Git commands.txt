@@ -5,3 +5,4 @@ git status
 git add ....
 git restore --staged .....          oposite of add
 git add *.*
+git commit
